@@ -29,9 +29,13 @@ A página principal é a única do projeto e apresenta a imagem de uma lâmpada 
 
 ## 👯 Clone este projeto
  
-git clone <a href="https://github.com/suelenbraga1/desafio-lampada.git">
+git clone
+<a href="https://github.com/suelenbraga1/desafio-lampada.git">
 Acessar
 cd desafio-lampada
-Instalar Live Server <a href="https://www.npmjs.com/package/live-server">
+Instalar Live Server
+<a href="https://www.npmjs.com/package/live-server">
 
-## 👾 Link da página no github pages: https://suelenbraga1.github.io/desafio-lampada/
+## 👾 Link da página no github pages:
+
+https://suelenbraga1.github.io/desafio-lampada/
