@@ -5,7 +5,7 @@
 ![image](https://github.com/suelenbraga1/desafio-lampada/assets/140122120/9e625c59-5d7b-471c-befb-beff6b1488a8)
 
 
-<h1>📄 Módulo de Javascript na prática da escola DNC: Desafio para fixar conhecimento</h1>
+📄 Módulo de Javascript na prática da escola DNC: Desafio para fixar conhecimento
 
 ## 🏁 Visão Geral:
 
