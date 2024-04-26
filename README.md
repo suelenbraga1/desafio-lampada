@@ -5,9 +5,9 @@
 ![image](https://github.com/suelenbraga1/desafio-lampada/assets/140122120/9e625c59-5d7b-471c-befb-beff6b1488a8)
 
 
-##📄 Módulo de Javascript na prática da escola DNC: Desafio para fixar conhecimento
+## 📄 Módulo de Javascript na prática da escola DNC: Desafio para fixar conhecimento
 
-##🏁 Visão Geral:
+## 🏁 Visão Geral:
 
 A proposta é fazer uma aplicação com uma lâmpada e dois botões, um que “liga” e outro que “desliga” a lâmpada. E ao clicar na lâmpada, ela se quebre.
 Essa aplicação funciona com a manipulação do DOM e imagens através do Javascript. 
