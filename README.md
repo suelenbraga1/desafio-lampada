@@ -27,15 +27,14 @@ A página principal é a única do projeto e apresenta a imagem de uma lâmpada 
  - Ao clicar na lâmpada, ela se quebra.
  - Quando a lâmpada estiver quebrada os botões de "Ligar" e "Desligar" não funcionam mais, sendo necessário atualização da página. 
 
-## 👯 Clone este projeto
- 
-git clone
-<a href="https://github.com/suelenbraga1/desafio-lampada.git">
-Acessar
-cd desafio-lampada
-Instalar Live Server
-<a href="https://www.npmjs.com/package/live-server">
-
 ## 👾 Link da página no github pages:
 
 https://suelenbraga1.github.io/desafio-lampada/
+
+
+## 👯 Clone este projeto
+ 
+```bash
+$ git clone https://github.com/suelenbraga1/desafio-lampada.git
+# Acessar
+$ cd desafio-lampada
